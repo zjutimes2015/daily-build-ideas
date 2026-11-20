@@ -6,6 +6,7 @@ One build idea a day for indie hackers and Micro-SaaS founders: the idea, why no
 
 | Date | Idea | EN | ZH |
 | --- | --- | --- | --- |
+| 2026-11-20 | Neon Review — PR review bot on the new #1 coding model | [en/2026/2026-11-20.md](en/2026/2026-11-20.md) | [zh/2026/2026-11-20.md](zh/2026/2026-11-20.md) |
 | 2026-11-19 | PatchCheck — one-click nginx RCE exposure check | [en/2026/2026-11-19.md](en/2026/2026-11-19.md) | [zh/2026/2026-11-19.md](zh/2026/2026-11-19.md) |
 
 ## How It Works
