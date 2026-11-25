@@ -6,6 +6,7 @@ One build idea a day for indie hackers and Micro-SaaS founders: the idea, why no
 
 | Date | Idea | EN | ZH |
 | --- | --- | --- | --- |
+| 2026-11-25 | BootLink — turn any Linux app into a browser link | [en/2026/2026-11-25.md](en/2026/2026-11-25.md) | [zh/2026/2026-11-25.md](zh/2026/2026-11-25.md) |
 | 2026-11-24 | LadybirdCheck — compatibility testing for the new Ladybird browser engine | [en/2026/2026-11-24.md](en/2026/2026-11-24.md) | [zh/2026/2026-11-24.md](zh/2026/2026-11-24.md) |
 | 2026-11-23 | PromptCanary — canary tokens for the AI supply chain | [en/2026/2026-11-23.md](en/2026/2026-11-23.md) | [zh/2026/2026-11-23.md](zh/2026/2026-11-23.md) |
 | 2026-11-22 | LocalLoop — offline coding agent on the laptop-run open model | [en/2026/2026-11-22.md](en/2026/2026-11-22.md) | [zh/2026/2026-11-22.md](zh/2026/2026-11-22.md) |
